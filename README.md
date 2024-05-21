@@ -1,6 +1,6 @@
 [![MasterHead](https://wallpapers.com/images/hd/coding-inspirational-quote-pfuj3njhxxcd1ugk.jpg)](https://github.com/upadhyay101)
 <h1 align="center">Hi 👋, I'm Abhijeet upadhyay</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1716163200&semt=ais_user">
 
 - 💬 Ask me about **MERN**
