@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhijeet upadhyay</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1716163200&semt=ais_user">
+<img align="right" alt="Coding" width="400" height="380" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1716163200&semt=ais_user">
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **abhijeetkumarupadhyay8@gmail.com**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-kumar-upadhyay-8a6728209) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,6 +20,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=upadhyay101&show_icons=true&locale=en&layout=compact" alt="upadhyay101" /></p>
+# Stats:
+![](https://github-readme-stats.vercel.app/api?username=upadhyay101&theme=merko&hide_border=true&include_all_commits=true&count_private=flase)
+![](https://github-readme-streak-stats.herokuapp.com/?user=upadhyay101&theme=merko&hide_border=true)
+      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=upadhyay101&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
